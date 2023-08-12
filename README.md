@@ -6,13 +6,13 @@ Mini project || javascript project.
 
 ## Screenshots
 
-![App Screenshot](image/password-generator image.png)
-![App Screenshot](image/password-generator image 2.png)
+![App Screenshot](https://github.com/mohammadabdullah8674/password-generator/blob/main/image/password-generator%20image.png)
+![App Screenshot](https://github.com/mohammadabdullah8674/password-generator/blob/main/image/password-generator%20image%202.png)
 
 
 ## Live Demo
 This is live on netlify website you can check it out.
- - [Live Project]()
+ - [Live Project](https://password-generator-abdullah.netlify.app/)
 
  
 
