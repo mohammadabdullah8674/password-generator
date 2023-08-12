@@ -6,8 +6,8 @@ Mini project || javascript project.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/mohammadabdullah8674/password-generator/blob/main/image/password-generator%20image.png)
-![App Screenshot](https://github.com/mohammadabdullah8674/password-generator/blob/main/image/password-generator%20image%202.png)
+![App Screenshot](image/password-generatorimage.png)
+![App Screenshot](image/password-generatorimage2.png)
 
 
 ## Live Demo
