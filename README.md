@@ -6,10 +6,11 @@ Mini project || javascript project.
 
 ## Screenshots
 
+### Image 1
+[![HD5SVf9.md.png](https://iili.io/HD5SVf9.md.png)](https://freeimage.host/i/HD5SVf9)
 
-![App Screenshot](https://ibb.co/G0cKKHw)
-
-![App Screenshot](https://ibb.co/CKD1rZg)
+### Image 2
+[![HD5UFX2.md.png](https://iili.io/HD5UFX2.md.png)](https://freeimage.host/i/HD5UFX2)
 
 
 ## Live Demo
