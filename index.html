@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+    <link rel="stylesheet" href="index.css">
+    <script src="https://kit.fontawesome.com/f0d3472bdc.js" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+    <div class="main">
+        <div class="container">
+            <span class="arrow-right"><i class="fa fa-arrow-right"></i></span>
+            <div class="scroll hide" id="scroll">
+                <span class="arrow-left"><i class="fa fa-arrow-left"></i></span>
+                <div class="scroll-container">
+                    <!-- <p>password range </p> -->
+                    <select name="range" id="range">
+                        <option value="" selected>Set Password Range</option>
+                        <option value="8">8 digit</option>
+                        <option value="9">9 digit</option>
+                        <option value="10">10 digit</option>
+                        <option value="11">11 digit</option>
+                        <option value="12">12 digit</option>
+                        <option value="13">13 digit</option>
+                        <option value="14">14 digit</option>
+                        <option value="15">15 digit</option>
+                    </select>
+                </div>
+                <div class="info">
+                    <p>Made with ❤️ by Mohd Abdullah</p>
+                    <p>© 2022</p>
+                </div>
+            </div>
+            <h1>Generate a <br> <span>random password</span></h1>
+            <p class="para">Never use an insecure password again.</p>
+            <button class="generate-btn" onclick="getPassword()">Generate Passwords</button>
+            <div class="error hide">
+                <p>*please select range, to select use above arrow.</p>
+            </div>
+            <div class="line"></div>
+           <div class="result">
+            <div class="pwd"><p id="pwd-1"></p><button id="1" onclick="copy(this.id)">copy</button></div>
+            <div class="pwd"><p id="pwd-2"></p><button id="2" onclick="copy(this.id)">copy</button></div>
+            
+           </div>
+        </div>
+    </div>
+
+
+
+    <script src="index.js"></script>
+</body>
+
+</html>
