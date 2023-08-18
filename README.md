@@ -7,10 +7,10 @@ Mini project || javascript project.
 ## Screenshots
 
 ### Image 1
-[![HD5SVf9.md.png](https://iili.io/HD5SVf9.md.png)](https://freeimage.host/i/HD5SVf9)
+[![HD5SVf9.md.png](https://iili.io/HD5SVf9.md.png)](https://password-generator-abdullah.netlify.app/)
 
 ### Image 2
-[![HD5UFX2.md.png](https://iili.io/HD5UFX2.md.png)](https://freeimage.host/i/HD5UFX2)
+[![HD5UFX2.md.png](https://iili.io/HD5UFX2.md.png)](https://password-generator-abdullah.netlify.app/)
 
 
 ## Live Demo
